@@ -11,7 +11,7 @@ You should do the following for some fun times.
 
 Then you get something neat like this:
 
-![Cucumber Results](http://img.skitch.com/20100810-x2fyw5mi26jsyd1r7yaygf6k96.jpg)
+![Cucumber Results](http://img.skitch.com/20100810-exd9m91p5c64qk9iw4g9h47t7e.jpg)
 
 Enjoy the awesome.
 
