@@ -1,4 +1,4 @@
-Given "the HTML is loaded" do |html|
+Given "the following HTML is loaded" do |html|
     new_page(html)
 end
 
@@ -6,11 +6,11 @@ Given /the Javascript file "(.*)" is loaded/ do |filename|
     page.load(javascript_path(filename))
 end
 
-When "the Javascript is run" do |javascript|
+When "the following Javascript is run" do |javascript|
     page.execute_js("__result__=(#{javascript})")
 end
 
-Then /the Javascript result is (.*)/ do |expected_result|
+Then /the Javascript result should be (.*)/ do |expected_result|
     last_run.should == eval(expected_result)
 end
 
