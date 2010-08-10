@@ -9,4 +9,9 @@ You should do the following for some fun times.
     $ gem install cucumber
     $ cucumber
 
+Then you get something neat like this:
+
+![Cucumber Results](http://img.skitch.com/20100810-x2fyw5mi26jsyd1r7yaygf6k96.jpg)
+
 Enjoy the awesome.
+
